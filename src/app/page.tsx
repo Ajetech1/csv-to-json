@@ -573,7 +573,7 @@ export default function Home() {
         }}
       >
         All processing happens in your browser — no data is uploaded to any
-        server
+        server, Just one click
       </p>
       <p
         style={{
